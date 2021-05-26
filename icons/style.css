@@ -1,0 +1,28 @@
+body{
+  font-family: 'Bebas Neue', cursive;
+}
+.navigation{
+  font-size: 20px;
+  position: relative;
+  text-align: right;
+  margin: 10px 30px;
+}
+.nav-button{
+  padding: 10px;
+}
+a{
+  text-decoration: none;
+  color: #3C3C3C;
+}
+h1{
+  font-size: 60px;
+  color: #363958;
+  margin: 0;
+}
+.name-highlight{
+  color: #FF8367;
+}
+p{
+  color: #3C3C3C;
+  
+}
