@@ -1,5 +1,6 @@
 body{
   font-family: 'Bebas Neue', cursive;
+  margin: 0;
 }
 .navigation{
   font-size: 20px;
@@ -19,10 +20,47 @@ h1{
   color: #363958;
   margin: 0;
 }
-.name-highlight{
+.text-highlight{
   color: #FF8367;
 }
 p{
   color: #3C3C3C;
-  
+}
+.half-width{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+  height: 80%; 
+}
+.half-width img{
+  width: 100%;
+}
+.paragraph{
+  padding-bottom: 20px;
+}
+.link-button{
+  background-image: linear-gradient(45deg,cyan, blue);
+  color: white;
+  padding: 15px 30px;
+  border-radius: 5px;
+}
+h2{
+  font-size: 48px;
+  color: #363958;
+}
+section{
+  height: 30%;
+  padding-bottom: 50%;
+}
+span{
+  padding-right: 10px;
+}
+h3{
+  font-size: 50px;
+  color: #363958;
+}
+.latest-project{
+  text-align: center;
+  background-color: #F8F9FC;
 }
